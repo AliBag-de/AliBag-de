@@ -1,4 +1,4 @@
-# Some React Native & Expo Projects and Fullstack Projects
+# Some PUBLIC React Native & Expo Projects and Fullstack Projects
 
 ## Overview
 This repository showcases my React Native/Expo mobile applications and their full-stack implementations. The projects cover various domains including e-commerce, media streaming, gaming, and IoT solutions.
