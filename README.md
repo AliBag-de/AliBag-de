@@ -15,7 +15,7 @@ This repository showcases my React Native/Expo mobile applications and their ful
 
 ---
 
-### 📱 Decalizer - 3D Decal Attachment App
+### <img src="https://play-lh.googleusercontent.com/RCpdQQ-wBapemEJLJ1FS0AHd7BlJmeKhQx9fZssUb0THsHOE33YdRkA529m17C-Otg=w480-h960-rw" width="16" height="16" alt="Three.js"/> Decalizer - 3D Decal Attachment App
 **🛠️ Technologies:**  
 - <img src="https://img.icons8.com/color/48/000000/react-native.png" width="16" height="16" alt="React Native"/> React Native  
 - <img src="https://img.icons8.com/color/48/000000/expo.png" width="16" height="16" alt="Expo"/> Expo  
