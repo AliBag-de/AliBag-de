@@ -78,5 +78,7 @@ This repository showcases my React Native/Expo mobile applications and their ful
 - <img src="https://img.icons8.com/color/48/000000/continuous-integration.png" width="16" height="16" alt="CI/CD"/> CI/CD Pipelines  
 
 
+<img src="https://play-lh.googleusercontent.com/PgAl0V1pWvER7X9ViFrBaT9Pxye4pRH5Nr9JlD5RbKjNX0bcMRp007dQhd17b0Y28Rwv=w480-h960-rw" width="32" height="32" alt="CI/CD"/> [UPWORK Profile](https://www.upwork.com/freelancers/~01823d02b62880312c?mp_source=share) 
+
 ✉️ [alibagdat@hotmail.com]  
 
