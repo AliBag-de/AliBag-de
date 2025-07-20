@@ -11,7 +11,7 @@ This repository showcases my React Native/Expo mobile applications and their ful
 - <img src="https://img.icons8.com/color/48/000000/expo.png" width="16" height="16" alt="Expo"/> Expo  
 - <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Google_Maps_icon_%282015-2020%29.svg" width="16" height="16" alt="Three.js"/> Google Maps SDK
 
-🔗 🔗 [Expo / Android](https://expo.dev/accounts/alibagdat/projects/route-tester/builds/b259efa7-9aa4-4fe1-9edc-3c50820269fd)
+🔗 [Expo / Android](https://expo.dev/accounts/alibagdat/projects/route-tester/builds/b259efa7-9aa4-4fe1-9edc-3c50820269fd)
 
 ---
 
