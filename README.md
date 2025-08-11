@@ -39,7 +39,7 @@ This repository showcases my React Native/Expo mobile applications and their ful
 - <img src="https://img.icons8.com/color/48/000000/react-native.png" width="16" height="16" alt="React Native"/> React Native  
 - <img src="https://img.icons8.com/color/48/000000/expo.png" width="16" height="16" alt="Expo"/> Expo  
 
-🔗 [Expo / Android](https://expo.dev/accounts/alibagdat/projects/sparkytv/builds/ab503ade-7bfd-44a7-b340-6bd056e7dae4)
+🔗 [Expo / Android](https://expo.dev/accounts/alibagdat/projects/sparkytv/builds/f61955bd-b6ff-4d9a-8802-c1c89504a034)
 
 ---
 
