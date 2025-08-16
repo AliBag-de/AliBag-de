@@ -5,6 +5,20 @@ This repository showcases my React Native/Expo mobile applications and their ful
 
 ## 🚀 Featured Projects
 
+### 🏢 Full Stack B2B Platform 
+**🛠️ Technologies:** 
+- <img src="https://img.icons8.com/color/48/000000/react-native.png" width="16" height="16" alt="React Native"/> React Native  
+- <img src="https://img.icons8.com/color/48/000000/expo.png" width="16" height="16" alt="Expo"/> Expo
+- <img src="https://img.icons8.com/color/48/000000/nextjs.png" width="16" height="16" alt="Next.js"/> Next.js&nbsp;&nbsp;
+- <img src="https://img.icons8.com/color/48/000000/mongodb.png" width="16" height="16" alt="MongoDB"/> MongoDB&nbsp;&nbsp;
+- <img src="https://img.icons8.com/color/48/000000/traefik.png" width="16" height="16" alt="Traefik"/> Traefik&nbsp;&nbsp;
+- <img src="https://img.icons8.com/color/48/000000/docker.png" width="16" height="16" alt="Docker"/> Docker&nbsp;&nbsp;
+- <img src="https://img.icons8.com/color/48/000000/express-js.png" width="16" height="16" alt="Express.js"/> Express.js
+
+  🔗 [Project Presentation](micro-services.md)
+  
+---
+  
 ### 📱 Google Maps - Custom Navigation 
 **🛠️ Technologies:**  
 - <img src="https://img.icons8.com/color/48/000000/react-native.png" width="16" height="16" alt="React Native"/> React Native  
