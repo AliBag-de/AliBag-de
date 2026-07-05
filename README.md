@@ -1,98 +1,82 @@
-# Some React Native & Expo Projects and Fullstack Projects
+<div align="center">
 
-## Overview
-This repository showcases my React Native/Expo mobile applications and their full-stack implementations. The projects cover various domains including e-commerce, media streaming, gaming, and IoT solutions.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ali+Bagdatli+%F0%9F%91%8B;Full+Stack+%26+Mobile+Developer;React+Native+%7C+Node.js+%7C+DevOps" alt="Typing SVG" />
 
-## 🚀 Featured Projects
+<br/>
 
-### 🏢 Full Stack B2B Platform 
-**🛠️ Technologies:** 
-- <img src="https://img.icons8.com/color/48/000000/react-native.png" width="16" height="16" alt="React Native"/> React Native  
-- <img src="https://img.icons8.com/color/48/000000/expo.png" width="16" height="16" alt="Expo"/> Expo
-- <img src="https://img.icons8.com/color/48/000000/nextjs.png" width="16" height="16" alt="Next.js"/> Next.js&nbsp;&nbsp;
-- <img src="https://img.icons8.com/color/48/000000/mongodb.png" width="16" height="16" alt="MongoDB"/> MongoDB&nbsp;&nbsp;
-- <img src="https://icon.icepanel.io/Technology/svg/Traefik-Proxy.svg" width="16" height="16" alt="Traefik"/> Traefik&nbsp;&nbsp;
-- <img src="https://img.icons8.com/color/48/000000/docker.png" width="16" height="16" alt="Docker"/> Docker&nbsp;&nbsp;
-- <img src="https://img.icons8.com/color/48/000000/express-js.png" width="16" height="16" alt="Express.js"/> Express.js
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01823d02b62880312c?mp_source=share)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:alibagdat@hotmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AliBag-de)
 
-  🔗 [Project Presentation](micro-services.md)
-  
----
-  
-### 📱 Google Maps - Custom Navigation 
-**🛠️ Technologies:**  
-- <img src="https://img.icons8.com/color/48/000000/react-native.png" width="16" height="16" alt="React Native"/> React Native  
-- <img src="https://img.icons8.com/color/48/000000/expo.png" width="16" height="16" alt="Expo"/> Expo  
-- <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Google_Maps_icon_%282015-2020%29.svg" width="16" height="16" alt="Three.js"/> Google Maps SDK
-
-🔗 [Expo / Android](https://expo.dev/accounts/alibagdat/projects/route-tester/builds/bce30e8c-2b85-48b6-aa94-ef651c986ea7)
+</div>
 
 ---
 
-### <img src="https://play-lh.googleusercontent.com/RCpdQQ-wBapemEJLJ1FS0AHd7BlJmeKhQx9fZssUb0THsHOE33YdRkA529m17C-Otg=w480-h960-rw" width="16" height="16" alt="Three.js"/> Decalizer - 3D Decal Attachment App
-**🛠️ Technologies:**  
-- <img src="https://img.icons8.com/color/48/000000/react-native.png" width="16" height="16" alt="React Native"/> React Native  
-- <img src="https://img.icons8.com/color/48/000000/expo.png" width="16" height="16" alt="Expo"/> Expo  
-- <img src="https://canada1.discourse-cdn.com/flex035/uploads/threejs/original/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751.png" width="16" height="16" alt="Three.js"/> Three.js  
+## About Me
 
-🔗 [Android](https://play.google.com/store/apps/details?id=net.ioxtech.decalizer)
+I'm a full-stack and mobile developer specializing in **React Native / Expo** cross-platform apps and scalable backend systems. I build everything from consumer-facing mobile products to microservice architectures — and take them all the way to production.
 
----
-
-### 🛒 EasyShopGo - Fullstack Marketplace
-**🛠️ Technologies:**  
-- <img src="https://img.icons8.com/color/48/000000/react-native.png" width="16" height="16" alt="React Native"/> React Native  
-- <img src="https://img.icons8.com/color/48/000000/nodejs.png" width="16" height="16" alt="Node.js"/> Node.js  
-
-🔗 [Android](https://play.google.com/store/apps/details?id=de.ioxtech.easyshopgo)
+- 📱 Published apps on **Google Play Store**
+- 🐳 Self-hosted infrastructure with **Docker + Traefik**
+- 🌍 Based in Germany · Available for freelance work via **Upwork**
 
 ---
 
-### 📺 IPTV Player
-**🛠️ Technologies:**  
-- <img src="https://img.icons8.com/color/48/000000/react-native.png" width="16" height="16" alt="React Native"/> React Native  
-- <img src="https://img.icons8.com/color/48/000000/expo.png" width="16" height="16" alt="Expo"/> Expo  
+## Tech Stack
 
-🔗 [Expo / Android](https://expo.dev/accounts/alibagdat/projects/sparkytv/builds/f61955bd-b6ff-4d9a-8802-c1c89504a034)
+**Mobile & Frontend**
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**DevOps & Infrastructure**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=flat-square&logo=traefikproxy&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu_Server-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-0A0A0A?style=flat-square&logo=githubactions&logoColor=white)
 
 ---
 
-### <img src="https://play-lh.googleusercontent.com/1glkP2pCW43iM0bwE43axlSQOByw6VvxTFbfafHz6CTXCsb4Wr4my9Nud-oN2WnQXg=w480-h960-rw" width="16" height="16" alt="LightsOutGo"/> LightsOutGo Game
-**🛠️ Technologies:**  
-- <img src="https://img.icons8.com/color/48/000000/react-native.png" width="16" height="16" alt="React Native"/> React Native  
-- <img src="https://img.icons8.com/color/48/000000/expo.png" width="16" height="16" alt="Expo"/> Expo  
+## Featured Projects
 
-🔗 [Android](https://play.google.com/store/apps/details?id=de.lightsoutgo.iox&hl=en)
-
----
-
-### 🌐 Stream Manager System
-**🛠️ Technologies:**  
-- <img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" width="16" height="16" alt="React"/>React.js  
-- <img src="https://img.icons8.com/color/48/000000/python.png" width="16" height="16" alt="Python"/> Python (Flask)  
-- <img src="https://img.icons8.com/color/48/000000/nodejs.png" width="16" height="16" alt="Node.js"/> Node.js  
-- <img src="https://img.icons8.com/color/48/000000/docker.png" width="16" height="16" alt="Docker"/> Docker  
+| Project | Description | Stack | Links |
+|--------|-------------|-------|-------|
+| **Full Stack B2B Platform** | Microservice-based B2B platform with mobile app and admin dashboard | React Native · Next.js · MongoDB · Docker · Traefik | [Details](micro-services.md) |
+| **Decalizer** | 3D decal attachment app with real-time Three.js rendering | React Native · Expo · Three.js | [![Play Store](https://img.shields.io/badge/Play_Store-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=net.ioxtech.decalizer) |
+| **EasyShopGo** | Full-stack mobile marketplace | React Native · Node.js | [![Play Store](https://img.shields.io/badge/Play_Store-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=de.ioxtech.easyshopgo) |
+| **LightsOutGo** | Puzzle game for Android | React Native · Expo | [![Play Store](https://img.shields.io/badge/Play_Store-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=de.lightsoutgo.iox) |
+| **Custom Navigation** | Google Maps SDK integration with custom routing | React Native · Expo · Google Maps SDK | [![Expo](https://img.shields.io/badge/Expo_Build-000020?style=flat-square&logo=expo&logoColor=white)](https://expo.dev/accounts/alibagdat/projects/route-tester/builds/bce30e8c-2b85-48b6-aa94-ef651c986ea7) |
+| **IPTV Player** | Cross-platform IPTV streaming app | React Native · Expo | [![Expo](https://img.shields.io/badge/Expo_Build-000020?style=flat-square&logo=expo&logoColor=white)](https://expo.dev/accounts/alibagdat/projects/sparkytv/builds/f61955bd-b6ff-4d9a-8802-c1c89504a034) |
+| **Stream Manager** | Web-based live stream management system | React.js · Python · Node.js · Docker | — |
 
 ---
 
-## 🛠️ Technical Stack
+## GitHub Stats
 
-**Frontend:**  
-- <img src="https://img.icons8.com/color/48/000000/react-native.png" width="16" height="16" alt="React Native"/> React Native/Expo  
-- <img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" width="16" height="16" alt="React"/> React.js  
-- <img src="https://img.icons8.com/color/48/000000/javascript.png" width="16" height="16" alt="JavaScript"/> <img src="https://img.icons8.com/color/48/000000/typescript.png" width="16" height="16" alt="JavaScript"/> JavaScript/TypeScript  
+<div align="center">
 
-**Backend:**  
-- <img src="https://img.icons8.com/color/48/000000/nodejs.png" width="16" height="16" alt="Node.js"/> Node.js  
-- <img src="https://img.icons8.com/color/48/000000/python.png" width="16" height="16" alt="Python"/> Python (Flask)  
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=AliBag-de&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliBag-de&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
 
-**DevOps:**  
-- <img src="https://img.icons8.com/color/48/000000/docker.png" width="16" height="16" alt="Docker"/> Docker  
-- <img src="https://img.icons8.com/color/48/000000/ubuntu.png" width="16" height="16" alt="Ubuntu"/> Ubuntu Server  
-- <img src="https://img.icons8.com/color/48/000000/continuous-integration.png" width="16" height="16" alt="CI/CD"/> CI/CD Pipelines  
+</div>
 
+---
 
-<img src="https://play-lh.googleusercontent.com/PgAl0V1pWvER7X9ViFrBaT9Pxye4pRH5Nr9JlD5RbKjNX0bcMRp007dQhd17b0Y28Rwv=w480-h960-rw" width="32" height="32" alt="CI/CD"/> [UPWORK Profile](https://www.upwork.com/freelancers/~01823d02b62880312c?mp_source=share) 
+<div align="center">
 
-✉️ [alibagdat@hotmail.com]  
+📬 **alibagdat@hotmail.com** &nbsp;·&nbsp; 💼 [Upwork](https://www.upwork.com/freelancers/~01823d02b62880312c?mp_source=share)
 
+</div>
