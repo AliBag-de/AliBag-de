@@ -15,8 +15,7 @@ A complete, production-grade IPTV platform built from scratch: cross-platform pl
 
 ---
 
-#### <img src="https://img.icons8.com/color/48/000000/react-native.png" width="16" height="16"/> Oxi+ Player App  
-**Repository:** [`oxi-player-plus`](https://github.com/AliBag-de/oxi-player-plus) &nbsp;·&nbsp; [`oxiplus`](https://github.com/AliBag-de/oxiplus)
+#### <img src="https://play-lh.googleusercontent.com/6aoJz8LoROnMjcSSzbPyhmUoAELvM5D9z5YZKvH6fIFtN6h-C-al5VBjUV0lFAu01YL5RTERcLPWWFnEqiFp8u4=w240-h480-rw" width="16" height="16"/> Oxi+ Player App  
 
 Cross-platform IPTV client built on the **React Native TV fork** (`react-native-tvos`). Runs on **Android TV**, **Apple TV**, **iOS**, **Android** and **Web** from a single codebase.
 
@@ -26,12 +25,18 @@ Cross-platform IPTV client built on the **React Native TV fork** (`react-native-
 - <img src="https://img.icons8.com/color/48/000000/typescript.png" width="16" height="16" alt="TypeScript"/> TypeScript · NativeWind (Tailwind CSS)
 - Zustand (state) · expo-video (background playback) · expo-sqlite (local DB)
 - Firebase Remote Config · QR Code activation · YouTube Iframe · React TV Space Navigation
-- Package ID: `plus.oxi.app`
+- Package ID: `plus.oxi`
+  
+🔗 <img src="https://www.oxi.plus/playstore.svg" width="auto" height="24" alt="Google Play"/> [Android / TV](https://play.google.com/store/apps/details?id=plus.oxi)
+
+🔗 <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" width="auto" height="24" alt="App Store"/> [IOS — Coming Soon- on Review]
+
+🔗 <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/LG_WebOS_New.svg" width="auto" height="24" alt="LG WebOs"/> [Webos — Coming Soon- on Review]
 
 ---
 
-#### 🌐 Oxi+ Web  
-**Repository:** [`oxi.plus_web`](https://github.com/AliBag-de/oxi.plus_web)
+#### <img src="https://play-lh.googleusercontent.com/6aoJz8LoROnMjcSSzbPyhmUoAELvM5D9z5YZKvH6fIFtN6h-C-al5VBjUV0lFAu01YL5RTERcLPWWFnEqiFp8u4=w240-h480-rw" width="auto" height="24" alt="Google Play"/> Oxi+ Web  
+**Url:** [`oxi.plus`](https://oxi.plus)
 
 Landing page and web platform for the Oxi+ ecosystem. Deployed on **Vercel**.
 
