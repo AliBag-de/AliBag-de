@@ -27,9 +27,9 @@ Cross-platform IPTV client built on the **React Native TV fork** (`react-native-
 - Firebase Remote Config · QR Code activation · YouTube Iframe · React TV Space Navigation
 - Package ID: `plus.oxi`
   
-🔗 <img src="https://www.oxi.plus/playstore.svg" width="auto" height="24" alt="Google Play"/> [Android / TV](https://play.google.com/store/apps/details?id=plus.oxi)
+🔗 [<img src="https://www.oxi.plus/playstore.svg" width="auto" height="24" alt="Google Play"/>](https://play.google.com/store/apps/details?id=plus.oxi)
 
-🔗 <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" width="auto" height="24" alt="App Store"/> [IOS — Coming Soon- on Review]
+🔗 [<img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" width="auto" height="24" alt="App Store"/>](https://apps.apple.com/us/app/oxi/id6775938636)
 
 🔗 <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/LG_WebOS_New.svg" width="auto" height="24" alt="LG WebOs"/> [Webos — Coming Soon- on Review]
 
